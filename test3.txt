@@ -14,3 +14,6 @@ re commit
 
 
 change from common(child) no2
+
+
+change from front(parent) no2
